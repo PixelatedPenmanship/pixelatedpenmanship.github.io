@@ -22,7 +22,7 @@ I've been a big fan of the youtube channel ["Chris Titus Tech"](https://www.yout
 
 So let's break down the features one-by-one.
 
-### How to Run the Thing?
+## How to Run the Thing?
 Well, If you're not that tech savvy, it is going to be a bit of work, but trust me, it isn't that bad... If you're used to clicking Next...Next...Next while installing a program on Windows, then you can easily do this one as well.
 
 First thing you need to do is to open Powershell/Terminal(Depending on if you run Windows 10 or 11). For that right click the start menu icon(on the botton left on Windows 10 or the windows icon on Windows 11, on the bottom center or bottom left corner) and select *Powershell/Terminal(Admin)*, be sure to select the one with **Admin** written in parenthesis.
