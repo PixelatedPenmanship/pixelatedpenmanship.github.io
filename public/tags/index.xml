@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pixelated Penmanship</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Pixelated Penmanship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>inksandtech.cytoplast591@slmail.me (Aravind A)</managingEditor>
     <webMaster>inksandtech.cytoplast591@slmail.me (Aravind A)</webMaster>
     <copyright>© 2025 Aravind A</copyright>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Powershell</title>
-      <link>//localhost:1313/tags/powershell/</link>
+      <link>http://localhost:1313/tags/powershell/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/powershell/</guid>
+      <guid>http://localhost:1313/tags/powershell/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Technology</title>
-      <link>//localhost:1313/tags/technology/</link>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/technology/</guid>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Utilities</title>
-      <link>//localhost:1313/tags/utilities/</link>
+      <link>http://localhost:1313/tags/utilities/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/utilities/</guid>
+      <guid>http://localhost:1313/tags/utilities/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>//localhost:1313/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ebonite</title>
-      <link>//localhost:1313/tags/ebonite/</link>
+      <link>http://localhost:1313/tags/ebonite/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/ebonite/</guid>
+      <guid>http://localhost:1313/tags/ebonite/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>FountainPen</title>
-      <link>//localhost:1313/tags/fountainpen/</link>
+      <link>http://localhost:1313/tags/fountainpen/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/fountainpen/</guid>
+      <guid>http://localhost:1313/tags/fountainpen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>IndianFountainPen</title>
-      <link>//localhost:1313/tags/indianfountainpen/</link>
+      <link>http://localhost:1313/tags/indianfountainpen/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/indianfountainpen/</guid>
+      <guid>http://localhost:1313/tags/indianfountainpen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI</title>
-      <link>//localhost:1313/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Claude</title>
-      <link>//localhost:1313/tags/claude/</link>
+      <link>http://localhost:1313/tags/claude/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/claude/</guid>
+      <guid>http://localhost:1313/tags/claude/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLMs</title>
-      <link>//localhost:1313/tags/llms/</link>
+      <link>http://localhost:1313/tags/llms/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>//localhost:1313/tags/llms/</guid>
+      <guid>http://localhost:1313/tags/llms/</guid>
       <description></description>
       
     </item>
