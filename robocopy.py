@@ -123,7 +123,7 @@ def main():
     #     return
     
     source_dir =  r"D:\Obsidian Notes\Obsidian Notes\Obsidian Notes\Personl Notes"
-    destination_dir = r"D:\InksAndTech\content\posts"
+    destination_dir = r"D:\pixelatedpenmanship.github.io\content\posts"
     
     print(f"Source directory: {source_dir}")
     print(f"Destination directory: {destination_dir}")

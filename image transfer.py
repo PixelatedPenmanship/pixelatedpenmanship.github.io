@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Paths (using raw strings to handle Windows backslashes correctly)
-posts_dir = r"D:\InksAndTech\content\posts"
+posts_dir = r"D:\pixelatedpenmanship.github.io\content\posts"
 attachments_dir = r"D:\Obsidian Notes\Obsidian Notes\Obsidian Notes\Personl Notes\images"
-static_images_dir = r"D:\InksAndTech\static\images"
+static_images_dir = r"D:\pixelatedpenmanship.github.io\static\images"
 
 # Step 1: Process each markdown file in the posts directory AND its subdirectories
 for root, dirs, files in os.walk(posts_dir):
