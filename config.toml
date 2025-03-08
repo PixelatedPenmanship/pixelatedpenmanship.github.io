@@ -4,7 +4,7 @@ extended = true
 min = "0.87.0"
 max = "0.143.1"
 
-title = "Pixelated Pennmanship"
+theme = "blowfish"
 baseURL = "https://pixelatedpenmanship.github.io/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
