@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pixelated Penmanship</title>
-    <link>http://localhost:1313/</link>
+    <link>http://pixelatedpenmanship.github.io/</link>
     <description>Recent content on Pixelated Penmanship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>inksandtech.cytoplast591@slmail.me (Aravind A)</managingEditor>
     <webMaster>inksandtech.cytoplast591@slmail.me (Aravind A)</webMaster>
     <copyright>© 2025 Aravind A</copyright>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://pixelatedpenmanship.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WinUtil by Chris Titus Tech: A Tool That Every Windows User Should Have</title>
-      <link>http://localhost:1313/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/</link>
+      <link>http://pixelatedpenmanship.github.io/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>http://localhost:1313/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/</guid>
+      <guid>http://pixelatedpenmanship.github.io/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://pixelatedpenmanship.github.io/posts/winutil-by-chris-titus-tech---a-tool-that-every-windows-user-should-have/feature.png" />
     </item>
     
     <item>
       <title>PLP Jumbo Review</title>
-      <link>http://localhost:1313/posts/plp-jumbo-review/</link>
+      <link>http://pixelatedpenmanship.github.io/posts/plp-jumbo-review/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>http://localhost:1313/posts/plp-jumbo-review/</guid>
+      <guid>http://pixelatedpenmanship.github.io/posts/plp-jumbo-review/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/plp-jumbo-review/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://pixelatedpenmanship.github.io/posts/plp-jumbo-review/feature.jpg" />
     </item>
     
     <item>
       <title>Claude 3.7 Sonnet: Is This the AI Model That Will Redefine Coding?</title>
-      <link>http://localhost:1313/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/</link>
+      <link>http://pixelatedpenmanship.github.io/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>http://localhost:1313/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/</guid>
+      <guid>http://pixelatedpenmanship.github.io/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://pixelatedpenmanship.github.io/posts/claude-3.7-sonnet-is-this-the-ai-model-that-will-redefine-coding/feature.png" />
     </item>
     
     <item>
       <title>Click Retro Review</title>
-      <link>http://localhost:1313/posts/click-retro-review/</link>
+      <link>http://pixelatedpenmanship.github.io/posts/click-retro-review/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
-      <guid>http://localhost:1313/posts/click-retro-review/</guid>
+      <guid>http://pixelatedpenmanship.github.io/posts/click-retro-review/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/click-retro-review/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://pixelatedpenmanship.github.io/posts/click-retro-review/feature.jpg" />
     </item>
     
   </channel>
