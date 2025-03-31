@@ -74,9 +74,7 @@ This is something new, I'd like to compare this pen, with my largest and smalles
 
 ## How Do You Fill the Damn Thing?
 
-This is a quite unconventional filling system compared to other fountain pens, so here is a demonstration on how the pen is filled.
-
-{{<video src="/images/Lmc_20250330_162740.mp4" controls="yes">}}
+This is a quite unconventional filling system compared to other fountain pens, so here is a demonstration on how the pen is filled. Please find that video [Here](https://drive.google.com/file/d/1ZARJglaTazEn9zXsO_s0gJOrhqbJEobr/view?usp=sharing).
 
 As I said, this fills kind of like a foldable syringe. This mechanism is extremely efficient, and also makes the pen easy to clean up as well, just pump and dump a couple of times with fresh water and that's it... 
 
