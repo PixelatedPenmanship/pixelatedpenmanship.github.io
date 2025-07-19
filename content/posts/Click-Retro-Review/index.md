@@ -73,8 +73,8 @@ In hand, you'll get an idea on why the airmail 71s were popular in the pen commu
 ![Image Description](/images/LMC_20250118_130354_lmc_8.4.jpg)
 
 ## Writing Experience
-The click retro is available with nib sizes ranging from extra-fine, all the way to double-broad. I'm more of a fine nib kinda guy, but for this one AI decided to go with a double broad. the nib is engraved with the click logo(which I think is made by Kanwrite, looking at the stamping). 
-Coming to the writing, for the ink, I just used the long blue cartridge that came along with the pen, since I was too lazy to choose an ink for it. 
+The click retro is available with nib sizes ranging from extra-fine, all the way to double-broad. I'm more of a fine nib kinda guy, but for this one I decided to go with a double broad. the nib is engraved with the click logo(which I think is made by Kanwrite, looking at the stamping). 
+For the ink, I just used the long blue cartridge that came along with the pen, since I was too lazy to choose an ink for it. 
 Coming to writing with it, on the upside, It's an extremely smooth nib, with good flow despite the plastic feed, and keeps up with normal and fast writing. On the downside, my nib came with a  bit of baby's bottom, which is a common occurrence with broader nibs in my experience(or I'm just not that lucky) leading to hard starts, but once the ink gets flowing it just flows.... I eventually fixed the baby's bottom using a #7000 grit sandpaper, which solved the hard starting, while maintaining the smoothness of the nib. 
  
  ![Image Description](/images/LMC_20250119_170940_lmc_8.4.jpg)
