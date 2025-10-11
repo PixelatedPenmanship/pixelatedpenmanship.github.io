@@ -36,6 +36,11 @@ plugins:
      tags: true 
      enabled: true
   - blog
+  - mkdocs-video:
+      is_video: true       # emit <video> for local files
+      video_controls: true
+      css_style:
+        width: "100%"
 
 # Extensions
 markdown_extensions:

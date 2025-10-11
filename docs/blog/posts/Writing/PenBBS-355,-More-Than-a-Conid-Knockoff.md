@@ -77,7 +77,7 @@ This is something new, I'd like to compare this pen, with my largest and smalles
 
 This is a quite unconventional filling system compared to other fountain pens, so here is a demonstration on how the pen is filled.
 
-![[Lmc 20250330 162740 Lmc 8.4.Mp4~2.mp4]]
+![type:video](images/penbbs_355_filling.mp4)
 
 As I said, this fills kind of like a foldable syringe. This mechanism is extremely efficient, and also makes the pen easy to clean up as well, just pump and dump a couple of times with fresh water and that's it... 
 
