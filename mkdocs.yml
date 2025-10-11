@@ -1,4 +1,4 @@
-#Site Information
+x.md#Site Information
 site_name: Pixelated Penmanship
 site_description: My halfassed attempt to document my journey through tech and writing instruments
 site_author: Aravind A
@@ -59,7 +59,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   
 nav:
-  - Home: blog/
+  - Home: blog/index.md
   - Technology: 
      - Claude 3.7 Sonnet... Is This the AI Model That Will Redefine Coding?: blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md
      - Microsoft Activation Scripts... Is It This Easy To Tactically Acquire Windows?: blog/posts/Tech/Microsoft-Activation-Scripts,-Is-it-this-Easy-to-Pirate-Windows.md
