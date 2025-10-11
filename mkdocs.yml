@@ -1,0 +1,102 @@
+#Site Information
+site_name: Pixelated Penmanship
+site_description: My halfassed attempt to document my journey through tech and writing instruments
+site_author: Aravind A
+site_url: https://pixelpenman.com
+
+# Theme configuration
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+# Plugins
+plugins:
+  - search
+  - glightbox
+  - mkdocs-pdf
+  - tags:
+     tags: true 
+     enabled: true
+  - blog
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - def_list
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
+nav:
+  - Home: blog/
+  - Technology: 
+     - Claude 3.7 Sonnet... Is This the AI Model That Will Redefine Coding?: blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md
+     - Microsoft Activation Scripts... Is It This Easy To Tactically Acquire Windows?: blog/posts/Tech/Microsoft-Activation-Scripts,-Is-it-this-Easy-to-Pirate-Windows.md
+     - WinUtil by Chris Titus Tech... A Tool That Every Windows User Should Have: blog/posts/Tech/WinUtil-by-Chris-Titus-Tech---A-Tool-That-Every-Windows-User-Should-Have.md
+  - Writing: 
+    - Click Retro Review: blog/posts/Writing/Click-Retro-Review.md
+    - PenBBS 355... More Than a Conid Knockoff: blog/posts/Writing/PenBBS-355,-More-Than-a-Conid-Knockoff.md
+    - PLP Jumbo Review... A Comfortable Jumbo With a Questionable Nib: blog/posts/Writing/PLP-Jumbo-Review.md
+    - Moonman V60... One of the Best Clones in the Market Today: blog/posts/Writing/Moonman-V60.md
+
+
+
+# Welcome to Product Security VulnOps - PSIRT WIKI
+
+#For and other full documentation on mkdocs visit [mkdocs.org](https://www.mkdocs.org).
+
+## Run this site on local machine
+
+#- `pip install mkdocs` - Install mkdocs using pip
+#- `pip install mkdocs-material` - Install material theme using pip
+#- `pip install mkdocs-glightbox` - Install glightbox theme using pip
+#- `pip install mkdocs-pdf` - Installing pdf extension to mkdocs using pip
+#- `mkdocs serve` - Start the live-reloading docs server
+#- `http://127.0.0.1:8000/` - Browse the site on your machine
+
+## mkdocs Commands
+
+#For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+
+#- `mkdocs new [dir-name]` - Create a new project.
+#- `mkdocs serve` - Start the live-reloading docs server.
+#- `mkdocs build` - Build the documentation site.
+#- `mkdocs -h` - Print help message and exit.
+
+## helpful commands and links
+
+#- `mkdocs -h` - Print help message and exit.
+#- [Syntax](https://daringfireball.net/projects/markdown/syntax#link) - Syntax useful in creating the documents
+#- [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/reference/) - More themes and formatting references

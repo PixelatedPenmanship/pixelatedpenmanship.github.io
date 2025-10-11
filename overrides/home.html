@@ -1,0 +1,19 @@
+{# overrides/home.html #}
+{% extends "base.html" %}
+
+{% block hero %}
+<section class="pp-hero">
+  <div class="pp-hero__inner">
+    <h1>Pixelated Penmanship</h1>
+    <p class="pp-tagline">Thoughtful tech notes and fountain pen reviews</p>
+    <p class="pp-cta">
+      <a href="blog/">Read latest</a>
+      <a href="blog/">Fountain pens</a>
+    </p>
+  </div>
+</section>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+{% endblock %}
