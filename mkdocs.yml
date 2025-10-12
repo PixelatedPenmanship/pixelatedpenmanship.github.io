@@ -23,10 +23,17 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/aravind_anand_99
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Aravind80699425 
+
 
 extra_css:
   - stylesheets/extra.css
-
+  
 # Plugins
 plugins:
   - search
