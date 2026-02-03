@@ -8,7 +8,7 @@ tags:
   - LLMs
   - Prompt Engineering
 ---
-#Let AI Lead the Way
+# Let AI Lead the Way
 
 To be frank with you, I am always a little skeptical with AI. For me it has not made that much of a difference in my work or my life (Apart from making an impressive linkedin profile photo...). But I've been curious as to how AI is at consolidating information. As I like to call it, AI, or LLMs specifically is nothing but a *optimistic answering machine with a large resource pool*. And I've been seeing a lot of instagram reels, where they basically make AI your coach, therapist, personal trainer and what have you. And, whilst I've been skeptical with these so called *"prompts that the system doesn't want you to know"*, I was curious.
 So recently my manager told me to brush up on some competencies for my role as a lead engineer in embedded security, so I thought why not I just make a prompt to basically give me an entire syllabus to study on. I chose perplexity as it had the most robust web search function till date(I know chatGPT and Grok comes close, but they do hallucinate from time to time, something I have not experienced with perplexity), and whilst I was not blown away, I was surprised at the sheer volume of information that the LLM provided, and it gave it to me in a handy markdown file that I can conveniently paste here, so that I can refer to it, whenever and wherever. Before I show you the roadmap, here is the prompt I used. I redacted the information that I wanted, and formatted it in such a way that you can add your competencies and get a fairly comprehensive roadmap.
