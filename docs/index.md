@@ -8,8 +8,7 @@ Hey 👋 – I’m **Aravind**, professional **spreadsheet ninja** by day, **acc
 ✅ **Existential Crises via Handwriting** – Is it therapy? Or just terrible penmanship?  
 
 ---
-title: Pixelated Penmanship
-template: home.html
+# Welcome to My World of Paradoxes: Pixelated Penmanship
 ---
 
 ### ⚡️ My Life Philosophy in 3 Tweets:  
