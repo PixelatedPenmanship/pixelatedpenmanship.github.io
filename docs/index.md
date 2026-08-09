@@ -1,3 +1,8 @@
+---
+template: home.html
+title: Home
+---
+
 # 🖋️ **Corporate Escape Hatch: One Engineer’s Fountain Pen Rebellion** 🔧💥  
 
 Hey 👋 – I’m **Aravind**, professional **spreadsheet ninja** by day, **accidental pen connoisseur** by night, and your resident **anti-corporate ink warrior**. This blog is my glorious middle finger to the soul-crushing grind – equal parts **tech deep dives**, **fountain pen obsession**, and **documented attempts at adulting** (spoiler: the coffee gets spilled, the code gets debugged).  

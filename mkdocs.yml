@@ -1,4 +1,3 @@
-
 site_name: Pixelated Penmanship
 site_description: My halfassed attempt to document my journey through tech and writing instruments
 site_author: Aravind A
@@ -10,39 +9,70 @@ theme:
   logo: img/logo.png
   favicon: img/favicon.ico
   custom_dir: overrides
+  font:
+    text: Outfit
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - navigation.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
+    - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
   palette:
-    - scheme: slate
+    - scheme: default
       primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-    - scheme: light
-      primary: indigo
-      accent: indigo
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      media: "(prefers-color-scheme: light)"
+    - scheme: slate
+      primary: slate
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      media: "(prefers-color-scheme: dark)"
+
 extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/aravind_anand_99
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/Aravind80699425 
-
+      link: https://x.com/Aravind80699425
 
 extra_css:
   - stylesheets/extra.css
-  
+
 # Plugins
 plugins:
   - search
   - glightbox
-  - mkdocs-pdf
   - tags:
-     tags: true 
-     enabled: true
-  - blog
+      tags: true 
+      enabled: true
+  - blog:
+      post_date_format: MMMM D, YYYY
+      post_readtime: true
+      post_readtime_words_per_minute: 200
+      archive: true
+      categories: true
+      pagination: true
+      pagination_per_page: 6
+      authors: true
+      authors_file: docs/blog/.authors.yml
   - mkdocs-video:
       is_video: true       # emit <video> for local files
       video_controls: true
@@ -55,6 +85,8 @@ markdown_extensions:
   - md_in_html
   - admonition
   - def_list
+  - footnotes
+  - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences:
@@ -64,51 +96,34 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __line
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.smartsymbols
+
 nav:
-  - Home: blog/index.md
+  - Home: index.md
+  - Blog: blog/index.md
   - Technology: 
-     - Claude 3.7 Sonnet... Is This the AI Model That Will Redefine Coding?: blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md
-     - Microsoft Activation Scripts... Is It This Easy To Tactically Acquire Windows?: blog/posts/Tech/Microsoft-Activation-Scripts,-Is-it-this-Easy-to-Pirate-Windows.md
-     - WinUtil by Chris Titus Tech... A Tool That Every Windows User Should Have: blog/posts/Tech/WinUtil-by-Chris-Titus-Tech---A-Tool-That-Every-Windows-User-Should-Have.md
-     - I Wanted To Learn More About My Job... So I Made AI My Professor: blog/posts/Tech/embedded-security-roadmap.md
+     - Overview: tech/index.md
+     - Claude 3.7 Sonnet: blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md
+     - Microsoft Activation Scripts: blog/posts/Tech/Microsoft-Activation-Scripts,-Is-it-this-Easy-to-Pirate-Windows.md
+     - WinUtil by Chris Titus Tech: blog/posts/Tech/WinUtil-by-Chris-Titus-Tech---A-Tool-That-Every-Windows-User-Should-Have.md
+     - Embedded Security Roadmap: blog/posts/Tech/embedded-security-roadmap.md
   - Writing: 
-    - Click Retro Review: blog/posts/Writing/Click-Retro-Review.md
-    - PenBBS 355... More Than a Conid Knockoff: blog/posts/Writing/PenBBS-355,-More-Than-a-Conid-Knockoff.md
-    - PLP Jumbo Review... A Comfortable Jumbo With a Questionable Nib: blog/posts/Writing/PLP-Jumbo-Review.md
-    - Moonman V60... One of the Best Clones in the Market Today: blog/posts/Writing/Moonman-V60.md
-    - Mohi Moonrise... A Good Pen into Mohi's Premium Portfolio: blog/posts/Writing/Mohi-Moonrise.md
-
-# Welcome to Product Security VulnOps - PSIRT WIKI
-
-#For and other full documentation on mkdocs visit [mkdocs.org](https://www.mkdocs.org).
-
-## Run this site on local machine
-
-#- `pip install mkdocs` - Install mkdocs using pip
-#- `pip install mkdocs-material` - Install material theme using pip
-#- `pip install mkdocs-glightbox` - Install glightbox theme using pip
-#- `pip install mkdocs-pdf` - Installing pdf extension to mkdocs using pip
-#- `mkdocs serve` - Start the live-reloading docs server
-#- `http://127.0.0.1:8000/` - Browse the site on your machine
-
-## mkdocs Commands
-
-#For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
-#- `mkdocs new [dir-name]` - Create a new project.
-#- `mkdocs serve` - Start the live-reloading docs server.
-#- `mkdocs build` - Build the documentation site.
-#- `mkdocs -h` - Print help message and exit.
-
-## helpful commands and links
-
-#- `mkdocs -h` - Print help message and exit.
-#- [Syntax](https://daringfireball.net/projects/markdown/syntax#link) - Syntax useful in creating the documents
-#- [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/reference/) - More themes and formatting references
+     - Overview: writing/index.md
+     - Click Retro Review: blog/posts/Writing/Click-Retro-Review.md
+     - PenBBS 355: blog/posts/Writing/PenBBS-355,-More-Than-a-Conid-Knockoff.md
+     - PLP Jumbo Review: blog/posts/Writing/PLP-Jumbo-Review.md
+     - Moonman V60: blog/posts/Writing/Moonman-V60.md
+     - Mohi Moonrise: blog/posts/Writing/Mohi-Moonrise.md

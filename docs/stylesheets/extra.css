@@ -1,0 +1,293 @@
+/* docs/stylesheets/extra.css */
+
+/* Import Google Fonts for Tech + Pen Aesthetics */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Fira+Code:wght@400;500;700&display=swap');
+
+:root {
+  --pp-font-heading: 'Outfit', var(--md-text-font-family), sans-serif;
+  --pp-gradient-brand: linear-gradient(135deg, #06b6d4 0%, #3b82f6 50%, #8b5cf6 100%);
+  --pp-gradient-dark-overlay: linear-gradient(180deg, rgba(15, 23, 42, 0.85) 0%, rgba(15, 23, 42, 0.94) 100%);
+  --pp-gradient-light-overlay: linear-gradient(180deg, rgba(248, 250, 252, 0.86) 0%, rgba(248, 250, 252, 0.95) 100%);
+  --pp-glass-border-dark: 1px solid rgba(255, 255, 255, 0.12);
+  --pp-glass-border-light: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+/* Headings & Brand Typography */
+h1, h2, h3, .md-typeset h1, .md-typeset h2 {
+  font-family: var(--pp-font-heading);
+  letter-spacing: -0.025em;
+  font-weight: 800;
+}
+
+.md-header__title {
+  font-family: var(--pp-font-heading);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Persistent Fixed Background Image */
+body, [data-md-color-scheme="slate"] {
+  background-image: var(--pp-gradient-dark-overlay), url("../images/andre.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #0f172a;
+}
+
+[data-md-color-scheme="default"] body, [data-md-color-scheme="default"] {
+  background-image: var(--pp-gradient-light-overlay), url("../images/andre.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f8fafc;
+}
+
+/* Glassmorphism Containers & Header */
+.md-container, .md-main, .md-main__inner, .md-sidebar {
+  background: transparent !important;
+}
+
+.md-header {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-tabs {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background-color: rgba(15, 23, 42, 0.4) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* LIGHT MODE SPECIFIC UI FIXES */
+[data-md-color-scheme="default"] .md-header {
+  background-color: #1e1b4b !important;
+  color: #ffffff !important;
+}
+
+[data-md-color-scheme="default"] .md-header__title,
+[data-md-color-scheme="default"] .md-header__button {
+  color: #ffffff !important;
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: #312e81 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-tabs__link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-weight: 600;
+  opacity: 0.85;
+}
+
+[data-md-color-scheme="default"] .md-tabs__link:hover,
+[data-md-color-scheme="default"] .md-tabs__link--active {
+  color: #ffffff !important;
+  opacity: 1;
+}
+
+[data-md-color-scheme="default"] .md-search__input {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: #ffffff !important;
+}
+
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+[data-md-color-scheme="default"] .md-search__icon {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.md-content__inner {
+  background: rgba(15, 23, 42, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 1.25rem;
+  padding: 2.25rem;
+  border: var(--pp-glass-border-dark);
+  box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.35);
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+[data-md-color-scheme="default"] .md-content__inner {
+  background: rgba(255, 255, 255, 0.92);
+  border: var(--pp-glass-border-light);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+  color: #0f172a;
+}
+
+/* Vibrant Hero Banner */
+.pp-hero {
+  position: relative;
+  padding: 3.5rem 1.5rem;
+  text-align: center;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  margin: 0.5rem 0 1.5rem 0;
+  box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+  background: rgba(15, 23, 42, 0.75);
+  border: var(--pp-glass-border-dark);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+[data-md-color-scheme="default"] .pp-hero {
+  background: rgba(255, 255, 255, 0.92);
+  border: var(--pp-glass-border-light);
+  box-shadow: 0 15px 25px -5px rgba(0, 0, 0, 0.06);
+}
+
+.pp-hero__inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Glowing Neon Badge Pill */
+.pp-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 1.1rem;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 1.1rem;
+  background: rgba(6, 182, 212, 0.12);
+  color: #38bdf8;
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  box-shadow: 0 0 20px rgba(6, 182, 212, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pp-badge:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 25px rgba(6, 182, 212, 0.35);
+}
+
+[data-md-color-scheme="default"] .pp-badge {
+  background: rgba(14, 165, 233, 0.12);
+  color: #0284c7;
+  border: 1px solid rgba(2, 132, 199, 0.3);
+}
+
+/* Vibrant Gradient Title */
+.pp-hero h1 {
+  font-size: clamp(2.3rem, 5vw, 3.5rem);
+  font-weight: 900;
+  margin: 0 0 0.85rem;
+  background: var(--pp-gradient-brand);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 10px rgba(6, 182, 212, 0.15));
+}
+
+.pp-tagline {
+  font-size: 1.2rem;
+  color: #94a3b8;
+  margin: 0;
+  font-weight: 500;
+}
+
+[data-md-color-scheme="default"] .pp-tagline {
+  color: #475569;
+}
+
+/* Lively Tag & Category Pills */
+.md-tag, .md-post__tag, a.md-typeset__tag {
+  font-family: var(--pp-font-heading);
+  font-weight: 700;
+  font-size: 0.78rem;
+  border-radius: 9999px !important;
+  padding: 0.25rem 0.75rem !important;
+  background: rgba(6, 182, 212, 0.12) !important;
+  color: #38bdf8 !important;
+  border: 1px solid rgba(56, 189, 248, 0.25) !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+[data-md-color-scheme="default"] .md-tag,
+[data-md-color-scheme="default"] .md-post__tag,
+[data-md-color-scheme="default"] a.md-typeset__tag {
+  background: rgba(2, 132, 199, 0.1) !important;
+  color: #0284c7 !important;
+  border: 1px solid rgba(2, 132, 199, 0.3) !important;
+}
+
+.md-tag:hover, .md-post__tag:hover, a.md-typeset__tag:hover {
+  transform: translateY(-2px);
+  background: rgba(6, 182, 212, 0.22) !important;
+  border-color: rgba(56, 189, 248, 0.5) !important;
+  box-shadow: 0 4px 12px rgba(6, 182, 212, 0.2);
+}
+
+/* Blog Post Cards Padding & Spacing */
+.md-post {
+  padding: 1.75rem 2rem !important;
+  margin-bottom: 2rem !important;
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 1.25rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.25s ease;
+}
+
+[data-md-color-scheme="default"] .md-post {
+  background: rgba(255, 255, 255, 0.88) !important;
+  border: 1px solid rgba(203, 213, 225, 0.8) !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04);
+}
+
+.md-post:hover {
+  transform: translateY(-4px);
+  border-color: rgba(6, 182, 212, 0.4) !important;
+  box-shadow: 0 14px 28px -5px rgba(6, 182, 212, 0.22);
+}
+
+[data-md-color-scheme="default"] .md-post:hover {
+  border-color: #0284c7 !important;
+  box-shadow: 0 10px 25px -5px rgba(2, 132, 199, 0.18);
+}
+
+.md-post__meta {
+  margin-bottom: 0.75rem;
+}
+
+.md-post__title {
+  margin-top: 0.25rem !important;
+  margin-bottom: 1rem !important;
+  font-size: 1.6rem !important;
+  line-height: 1.3 !important;
+}
+
+.md-post__content {
+  margin-top: 0.75rem;
+  line-height: 1.7;
+}
+
+/* Custom Thin Neon Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(6, 182, 212, 0.4);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(6, 182, 212, 0.7);
+}
