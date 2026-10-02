@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Pixelated Penmanship</title>
+    <link>https://pixelpenman.com/blog/</link>
+    <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Oct 2026 12:27:21 GMT</lastBuildDate>
+    <atom:link href="https://pixelpenman.com/blog/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let AI Lead the Way</title>
+      <link>https://pixelpenman.com/blog/2026/02/02/i-wanted-to-learn-more-about-my-job-so-i-made-ai-my-professor/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2026/02/02/i-wanted-to-learn-more-about-my-job-so-i-made-ai-my-professor/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mohi Moonrise: A Good Pen into Mohi's Premium Portfolio</title>
+      <link>https://pixelpenman.com/blog/2025/11/14/mohi-moonrise-a-good-pen-into-mohis-premium-portfolio/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/11/14/mohi-moonrise-a-good-pen-into-mohis-premium-portfolio/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moonman V60... One of the Best Clones in the Market Today</title>
+      <link>https://pixelpenman.com/blog/2025/07/19/moonman-v60-perhaps-the-best-copycat-yet/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/07/19/moonman-v60-perhaps-the-best-copycat-yet/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PenBBS 355... More Than a Conid Knockoff</title>
+      <link>https://pixelpenman.com/blog/2025/03/30/penbbs-355--more-than-a-cheap-conid-knockoff/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/03/30/penbbs-355--more-than-a-cheap-conid-knockoff/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Activation Scripts... Is It This Easy To Tactically Acquire Windows?</title>
+      <link>https://pixelpenman.com/blog/2025/03/09/microsoft-activation-scripts-is-it-this-easy-to-tactically-acquire-windows/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/03/09/microsoft-activation-scripts-is-it-this-easy-to-tactically-acquire-windows/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WinUtil by Chris Titus Tech... A Tool That Every Windows User Should Haves</title>
+      <link>https://pixelpenman.com/blog/2025/03/08/winutil-by-chris-titus-tech-a-tool-that-every-windows-user-should-have/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/03/08/winutil-by-chris-titus-tech-a-tool-that-every-windows-user-should-have/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PLP Jumbo Review... A Comfortable Jumbo With a Questionable Nib</title>
+      <link>https://pixelpenman.com/blog/2025/02/28/plp-jumbo-review/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/02/28/plp-jumbo-review/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 3.7 Sonnet... Is This the AI Model That Will Redefine Coding?</title>
+      <link>https://pixelpenman.com/blog/2025/02/26/claude-37-sonnet-is-this-the-ai-model-that-will-redefine-coding/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/02/26/claude-37-sonnet-is-this-the-ai-model-that-will-redefine-coding/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Click Retro Review</title>
+      <link>https://pixelpenman.com/blog/2025/02/23/click-retro-review/</link>
+      <guid isPermaLink="true">https://pixelpenman.com/blog/2025/02/23/click-retro-review/</guid>
+      <description>Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.</description>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

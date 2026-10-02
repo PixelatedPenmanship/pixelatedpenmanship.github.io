@@ -1,6 +1,11 @@
-# 💻 Technology & Software Engineering
+---
+title: Technology
+description: Systems engineering, embedded security roadmaps, operating system internals, and developer tools.
+---
 
-Welcome to the **Technology** hub! Explore software reviews, embedded security roadmaps, LLM developments, and system tweaks:
+# Systems Engineering & Technology
+
+In-depth technical guides, embedded Linux cybersecurity roadmaps, AI evaluations, and system utilities:
 
 <div class="grid cards" markdown>
 

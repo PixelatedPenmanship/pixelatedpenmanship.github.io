@@ -1,5 +1,5 @@
 site_name: Pixelated Penmanship
-site_description: My halfassed attempt to document my journey through tech and writing instruments
+site_description: Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.
 site_author: Aravind A
 site_url: https://pixelpenman.com
 
@@ -48,6 +48,8 @@ theme:
 
 extra:
   social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pixelatedpenmanship
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/aravind_anand_99
     - icon: fontawesome/brands/x-twitter
@@ -64,7 +66,7 @@ plugins:
       tags: true 
       enabled: true
   - blog:
-      post_date_format: MMMM D, YYYY
+      post_date_format: MMMM d, yyyy
       post_readtime: true
       post_readtime_words_per_minute: 200
       archive: true
@@ -113,17 +115,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Blog: blog/index.md
-  - Technology: 
-     - Overview: tech/index.md
-     - Claude 3.7 Sonnet: blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md
-     - Microsoft Activation Scripts: blog/posts/Tech/Microsoft-Activation-Scripts,-Is-it-this-Easy-to-Pirate-Windows.md
-     - WinUtil by Chris Titus Tech: blog/posts/Tech/WinUtil-by-Chris-Titus-Tech---A-Tool-That-Every-Windows-User-Should-Have.md
-     - Embedded Security Roadmap: blog/posts/Tech/embedded-security-roadmap.md
-  - Writing: 
-     - Overview: writing/index.md
-     - Click Retro Review: blog/posts/Writing/Click-Retro-Review.md
-     - PenBBS 355: blog/posts/Writing/PenBBS-355,-More-Than-a-Conid-Knockoff.md
-     - PLP Jumbo Review: blog/posts/Writing/PLP-Jumbo-Review.md
-     - Moonman V60: blog/posts/Writing/Moonman-V60.md
-     - Mohi Moonrise: blog/posts/Writing/Mohi-Moonrise.md
+  - Writing: writing/index.md
+  - Technology: tech/index.md
+  - Archive: blog/index.md
+  - About & Portfolio: about.md

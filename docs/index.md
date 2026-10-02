@@ -1,35 +1,102 @@
 ---
 template: home.html
 title: Home
+description: Where wet nibs meet clean code. Systems engineering, embedded cybersecurity, and the analog craft of fountain pens.
 ---
 
-# 🖋️ **Corporate Escape Hatch: One Engineer’s Fountain Pen Rebellion** 🔧💥  
+## The Intersection of Capillary Action & Clean Code
 
-Hey 👋 – I’m **Aravind**, professional **spreadsheet ninja** by day, **accidental pen connoisseur** by night, and your resident **anti-corporate ink warrior**. This blog is my glorious middle finger to the soul-crushing grind – equal parts **tech deep dives**, **fountain pen obsession**, and **documented attempts at adulting** (spoiler: the coffee gets spilled, the code gets debugged).  
+Welcome to **Pixelated Penmanship**—a publication exploring two disciplines that prize precision above all else: **systems engineering** and **mechanical writing instruments**.
 
-### 🌟 Why You’re Here (Besides Tech Peeves & Pen Porn):  
-✅ **Tech Rants** – Because even my smart watch judges my life choices  
-✅ **Fountain Pen Fandom** – Yes, I own countless nibs and one *very* judgmental ink collection 🔴🟢🔵  
-✅ **Existential Crises via Handwriting** – Is it therapy? Or just terrible penmanship?  
+In low-level software, every byte, memory barrier, and security primitive matters. In a fountain pen, every thousandth of a millimeter in nib slit width, feed channel geometry, and paper sizing dictates whether ink flows effortlessly or skips. This publication chronicles both worlds with equal rigor: comprehensive technical roadmaps on embedded Linux security, alongside hands-on teardowns of filling mechanisms, nib grinds, and artisanal ebonites.
 
 ---
-# Welcome to My World of Paradoxes: Pixelated Penmanship
+
+## Featured Publications & Guides
+
+<div class="grid cards" markdown>
+
+-   :material-shield-lock:{ .lg .middle } __Embedded Security Study Roadmap__
+
+    ---
+
+    A massive, structured study roadmap for embedded Linux security, covering Trusted Execution Environments (TEEs), hardware roots of trust, TPM 2.0, cgroups, and IEC-62443 compliance.
+
+    [:octicons-arrow-right-24: Read Roadmap](blog/posts/Tech/embedded-security-roadmap.md)
+
+-   :material-fountain-pen:{ .lg .middle } __PenBBS 355: More Than a Conid Knockoff__
+
+    ---
+
+    An in-depth engineering review of the bulkfiller mechanism, syringe-stroke capacity, acrylic machining, and everyday writing performance of the PenBBS 355.
+
+    [:octicons-arrow-right-24: Read Review](blog/posts/Writing/PenBBS-355,-More-Than-a-Conid-Knockoff.md)
+
+-   :material-robot:{ .lg .middle } __Claude 3.7 Sonnet & Hybrid Reasoning__
+
+    ---
+
+    An analytical breakdown of Anthropic's hybrid reasoning model, evaluating developer workflows, benchmark performance, and architectural trade-offs.
+
+    [:octicons-arrow-right-24: Read Article](blog/posts/Tech/Claude-3.7-Sonnet-Is-This-the-AI-Model-That-Will-Redefine-Coding.md)
+
+-   :material-feather:{ .lg .middle } __Click Retro: The Indian Acrylic Workhorse__
+
+    ---
+
+    A detailed review of a venerable Indian acrylic fountain pen, examining nib tuning, 3-in-1 filling versatility, and daily carry durability.
+
+    [:octicons-arrow-right-24: Read Review](blog/posts/Writing/Click-Retro-Review.md)
+
+</div>
+
 ---
 
-### ⚡️ My Life Philosophy in 3 Tweets:  
-1. *"Work smarter, not harder"* → Spends 45 mins optimizing his desk lamp brightness  
-2. *"Writing changes the world"* → Uses Vintage Pilot Elite to draft grocery lists  
-3. *"Corporate ladder? Nah, I’m building a pen tower* 🏰✨ *"**  
+## Explore by Discipline
 
-### 📸 Your Digital Welcome Mat:  
-![Aravind: Engineer, Collector, Pen-Wielding Rebel](img/avatar.jpg)  
-*“Currently debating whether my Sheaffer Imperial deserves its own LinkedIn profile.”*  
+<div class="grid cards" markdown>
 
-### 🚨 Disclaimer (Optional But Accurate):  
-> *“This blog contains:  
-> - Wierdly concise pen reviews  
-> - Dubious life choices (e.g. buying a ₹5000 pen holder)  
-> - Occasional corporate trauma dumped into the void  
-> Proceed with curiosity + caffeine.”*  
+-   :material-laptop:{ .lg .middle } __Technology & Systems Engineering__
 
-🔥 **P.S.** If you’ve ever wondered why grown adults sniff paper like suspicious chemists... you’re in the right place. Subscribe for weekly-ish doses of **tech, ink stains, and mild insurrection.**  
+    ---
+
+    Operating system internals, Linux kernel primitives, embedded hardware security, developer tooling, and modern AI engineering.
+
+    [:octicons-arrow-right-24: Browse Technology Hub](tech/index.md)
+
+-   :material-fountain-pen-tip:{ .lg .middle } __Fountain Pens & Writing Instruments__
+
+    ---
+
+    In-depth reviews of nibs, feeds, bulkfillers, vacuum mechanisms, ink chromatography, and paper stock tests.
+
+    [:octicons-arrow-right-24: Browse Writing Hub](writing/index.md)
+
+</div>
+
+---
+
+## Behind the Pen & Keyboard
+
+<div class="pp-profile-header" markdown="1">
+
+![Aravind A](img/avatar.jpg){: .pp-profile-avatar }
+
+<div class="pp-profile-intro" markdown="1">
+
+### Aravind A
+
+**Systems & Embedded Cybersecurity Engineer · Fountain Pen Enthusiast**
+{: .pp-profile-title }
+
+Documenting practical systems engineering and building a curated library of writing instrument evaluations. Curious about low-level architectures and obsessive about nib smoothing.
+
+<div class="pp-profile-links" markdown="1">
+
+[:material-card-account-details: Read Full Profile &amp; Arsenal &rarr;](about.md)
+[:material-archive: Browse All Articles &rarr;](blog/index.md)
+
+</div>
+
+</div>
+</div>

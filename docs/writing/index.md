@@ -1,6 +1,11 @@
-# ✒️ Fountain Pens & Writing Instruments
+---
+title: Writing Instruments
+description: Hands-on reviews of nibs, feeds, filling mechanisms, and pen craftsmanship.
+---
 
-Welcome to the **Writing Instruments** hub! Hands-on reviews of nibs, feeds, filling mechanisms, and pen craftsmanship:
+# Writing Instruments & Craftsmanship
+
+Hands-on evaluations of nibs, feeds, bulkfillers, vacuum mechanisms, and pen craftsmanship:
 
 <div class="grid cards" markdown>
 

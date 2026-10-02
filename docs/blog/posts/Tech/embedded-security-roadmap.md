@@ -35,15 +35,15 @@ And without further ado, here is the roadmap...
 ---
 
 ### Table of Contents
-1. [TEE - Trusted Execution Environment](#1-tee---trusted-execution-environment)
-2. [Root of Trust & Chain of Trust](#2-root-of-trust--chain-of-trust)
-3. [cgroups - Control Groups](#3-cgroups---control-groups)
-4. [Disk Partitioning, Rescue & Mount Security](#4-disk-partitioning-rescue--mount-security)
-5. [TPM Usage & Coverage](#5-tpm-usage--coverage)
+1. [TEE - Trusted Execution Environment](#1-tee-trusted-execution-environment)
+2. [Root of Trust & Chain of Trust](#2-root-of-trust-chain-of-trust)
+3. [cgroups - Control Groups](#3-cgroups-control-groups)
+4. [Disk Partitioning, Rescue & Mount Security](#4-disk-partitioning-rescue-mount-security)
+5. [TPM Usage & Coverage](#5-tpm-usage-coverage)
 6. [Linux Namespaces](#6-linux-namespaces)
-7. [AppArmor - Mandatory Access Control](#7-apparmor---mandatory-access-control)
+7. [AppArmor - Mandatory Access Control](#7-apparmor-mandatory-access-control)
 8. [IEC-62443 Industry Context](#8-iec-62443-industry-context)
-9. [Lab Setup & Tools](#9-lab-setup--tools)
+9. [Lab Setup & Tools](#9-lab-setup-tools)
 
 ---
 
@@ -701,15 +701,15 @@ I wanted to know if there was videos covering all the topics explained, So I pun
 ---
 
 ### Table of Contents
-1. [TEE - Trusted Execution Environment](#1-tee---trusted-execution-environment)
-2. [Root of Trust & Chain of Trust](#2-root-of-trust--chain-of-trust)
-3. [cgroups - Control Groups](#3-cgroups---control-groups)
-4. [Disk Partitioning, Rescue & Mount Security](#4-disk-partitioning-rescue--mount-security)
-5. [TPM Usage & Coverage](#5-tpm-usage--coverage)
-6. [Linux Namespaces](#6-linux-namespaces)
-7. [AppArmor - Mandatory Access Control](#7-apparmor---mandatory-access-control)
-8. [IEC-62443 Industry Context](#8-iec-62443-industry-context)
-9. [Lab Setup & Tools](#9-lab-setup--tools)
+1. [TEE - Trusted Execution Environment](#1-tee-trusted-execution-environment_1)
+2. [Root of Trust & Chain of Trust](#2-root-of-trust-chain-of-trust_1)
+3. [cgroups - Control Groups](#3-cgroups-control-groups_1)
+4. [Disk Partitioning, Rescue & Mount Security](#4-disk-partitioning-rescue-mount-security_1)
+5. [TPM Usage & Coverage](#5-tpm-usage-coverage_1)
+6. [Linux Namespaces](#6-linux-namespaces_1)
+7. [AppArmor - Mandatory Access Control](#7-apparmor-mandatory-access-control_1)
+8. [IEC-62443 Industry Context](#8-iec-62443-industry-context_1)
+9. [Lab Setup & Tools](#9-lab-setup-tools_1)
 
 ---
 
