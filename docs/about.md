@@ -19,9 +19,7 @@ description: Professional background in systems engineering, hardware security r
 <div class="pp-profile-links" markdown="1">
 
 [:fontawesome-brands-github: GitHub](https://github.com/pixelatedpenmanship){:target="_blank" rel="noopener"}
-[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com){:target="_blank" rel="noopener"}
 [:fontawesome-brands-instagram: Instagram](https://instagram.com/aravind_anand_99){:target="_blank" rel="noopener"}
-[:material-rss: RSS Feed](https://pixelpenman.com/blog/feed_rss_created.xml)
 
 </div>
 
